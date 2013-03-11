@@ -1,0 +1,915 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-22 23:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../src/Avatar.cpp:395
+#, c-format
+msgid "Congratulations, you have reached level %d!"
+msgstr ""
+
+#: ../../../src/Avatar.cpp:397
+msgid "You may increase one attribute through the Character Menu."
+msgstr ""
+
+#: ../../../src/Avatar.cpp:619
+msgid "You are defeated. Game over! Press Enter to exit to Title."
+msgstr ""
+
+#: ../../../src/Avatar.cpp:622
+#, c-format
+msgid "You are defeated.  You lose half your %s.  Press Enter to continue."
+msgstr ""
+
+#: ../../../src/Avatar.cpp:690 ../../../src/Enemy.cpp:172
+msgid "miss"
+msgstr ""
+
+#: ../../../src/Avatar.cpp:763 ../../../src/Enemy.cpp:248
+#: ../../../src/PowerManager.cpp:677 ../../../src/StatBlock.cpp:507
+#, c-format
+msgid "+%d HP"
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:138
+#, c-format
+msgid "You receive %s."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:140
+#, c-format
+msgid "You receive %s x%d."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:148
+#, c-format
+msgid "You receive %d %s."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:155
+#, c-format
+msgid "You receive %d XP."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:161
+msgid "HP restored."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:165
+msgid "MP restored."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:170
+msgid "HP and MP restored."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:174
+msgid "Negative effects removed."
+msgstr ""
+
+#: ../../../src/CampaignManager.cpp:180
+msgid "HP and MP restored, negative effects removed"
+msgstr ""
+
+#: ../../../src/Enemy.cpp:255 ../../../src/StatBlock.cpp:512
+#, c-format
+msgid "+%d MP"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:79
+msgid "Ok"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:84 ../../../src/GameStateConfig.cpp:163
+msgid "Defaults"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:89 ../../../src/GameStateNew.cpp:54
+#: ../../../src/InputState.cpp:59
+msgid "Cancel"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:154
+msgid "Video"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:155
+msgid "Audio"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:156
+msgid "Interface"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:157
+msgid "Input"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:158
+msgid "Keybindings"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:159
+msgid "Mods"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:162 ../../../src/GameStateConfig.cpp:947
+#: ../../../src/GameStateConfig.cpp:949
+msgid "Assign: "
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:163
+msgid "Reset ALL settings?"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:164
+msgid "OK"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:164
+msgid "Use this resolution?"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:254
+msgid "Full Screen Mode"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:267
+msgid "Move hero using mouse"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:280
+msgid "Show combat text"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:294
+msgid "Hardware surfaces"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:307
+msgid "Double buffering"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:321
+msgid "Use joystick"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:334
+msgid "High Quality Textures"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:347
+msgid "Allow changing gamma"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:360
+msgid "Animated tiles"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:373
+msgid "Mouse aim"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:386
+msgid "Show FPS"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:400
+msgid "Music Volume"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:413
+msgid "Sound Volume"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:426
+msgid "Gamma"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:440
+msgid "Resolution"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:451
+msgid "Active Mods"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:461
+msgid "Available Mods"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:477
+msgid "Joystick"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:489
+msgid "Language"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:524 ../../../src/GameStateConfig.cpp:531
+#: ../../../src/GameStateConfig.cpp:538
+msgid "Disable for performance"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:545
+msgid "Experimental"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:565
+msgid "<< Disable"
+msgstr ""
+
+#: ../../../src/GameStateConfig.cpp:573
+msgid "Enable >>"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:57 ../../../src/GameStateLoad.cpp:69
+msgid "Delete Save"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:57
+msgid "Delete this save?"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:59
+msgid "Exit to Title"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:65
+msgid "Choose a Slot"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:387 ../../../src/GameStateLoad.cpp:483
+msgid "New Game"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:486 ../../../src/GameStateLoad.cpp:496
+msgid "Enable a story mod to continue"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:492
+msgid "Load Game"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:546
+msgid "Entering game world..."
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:548
+msgid "Loading saved game..."
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:569
+#, c-format
+msgid "Level %d %s"
+msgstr ""
+
+#: ../../../src/GameStateLoad.cpp:593
+msgid "Empty Slot"
+msgstr ""
+
+#: ../../../src/GameStateNew.cpp:60
+msgid "Create"
+msgstr ""
+
+#: ../../../src/GameStateNew.cpp:159
+msgid "Choose a Portrait"
+msgstr ""
+
+#: ../../../src/GameStateNew.cpp:161
+msgid "Choose a Name"
+msgstr ""
+
+#: ../../../src/GameStateNew.cpp:163
+msgid "Permadeath?"
+msgstr ""
+
+#: ../../../src/GameStateNew.cpp:165
+msgid "Choose a Class"
+msgstr ""
+
+#: ../../../src/GameStatePlay.cpp:96
+msgid "Loading..."
+msgstr ""
+
+#: ../../../src/GameStatePlay.cpp:210 ../../../src/GameStatePlay.cpp:211
+#: ../../../src/MenuManager.cpp:401 ../../../src/MenuManager.cpp:402
+#: ../../../src/MenuManager.cpp:426 ../../../src/MenuManager.cpp:427
+#: ../../../src/MenuManager.cpp:605 ../../../src/MenuManager.cpp:606
+#: ../../../src/MenuManager.cpp:625 ../../../src/MenuManager.cpp:626
+msgid "Inventory is full."
+msgstr ""
+
+#: ../../../src/GameStateTitle.cpp:40
+msgid "Play Game"
+msgstr ""
+
+#: ../../../src/GameStateTitle.cpp:45
+msgid "Enable a core mod to continue"
+msgstr ""
+
+#: ../../../src/GameStateTitle.cpp:49
+msgid "Configuration"
+msgstr ""
+
+#: ../../../src/GameStateTitle.cpp:54
+msgid "Exit Game"
+msgstr ""
+
+#: ../../../src/GameStateTitle.cpp:61
+msgid "Flare Alpha v0.17"
+msgstr ""
+
+#: ../../../src/InputState.cpp:60
+msgid "Accept"
+msgstr ""
+
+#: ../../../src/InputState.cpp:61
+msgid "Up"
+msgstr ""
+
+#: ../../../src/InputState.cpp:62
+msgid "Down"
+msgstr ""
+
+#: ../../../src/InputState.cpp:63
+msgid "Left"
+msgstr ""
+
+#: ../../../src/InputState.cpp:64
+msgid "Right"
+msgstr ""
+
+#: ../../../src/InputState.cpp:65
+msgid "Bar1"
+msgstr ""
+
+#: ../../../src/InputState.cpp:66
+msgid "Bar2"
+msgstr ""
+
+#: ../../../src/InputState.cpp:67
+msgid "Bar3"
+msgstr ""
+
+#: ../../../src/InputState.cpp:68
+msgid "Bar4"
+msgstr ""
+
+#: ../../../src/InputState.cpp:69
+msgid "Bar5"
+msgstr ""
+
+#: ../../../src/InputState.cpp:70
+msgid "Bar6"
+msgstr ""
+
+#: ../../../src/InputState.cpp:71
+msgid "Bar7"
+msgstr ""
+
+#: ../../../src/InputState.cpp:72
+msgid "Bar8"
+msgstr ""
+
+#: ../../../src/InputState.cpp:73
+msgid "Bar9"
+msgstr ""
+
+#: ../../../src/InputState.cpp:74
+msgid "Bar0"
+msgstr ""
+
+#: ../../../src/InputState.cpp:75 ../../../src/MenuCharacter.cpp:218
+msgid "Character"
+msgstr ""
+
+#: ../../../src/InputState.cpp:76 ../../../src/MenuInventory.cpp:169
+#: ../../../src/MenuVendor.cpp:50
+msgid "Inventory"
+msgstr ""
+
+#: ../../../src/InputState.cpp:77 ../../../src/MenuPowers.cpp:172
+msgid "Powers"
+msgstr ""
+
+#: ../../../src/InputState.cpp:78 ../../../src/MenuLog.cpp:156
+msgid "Log"
+msgstr ""
+
+#: ../../../src/InputState.cpp:79
+msgid "Main1"
+msgstr ""
+
+#: ../../../src/InputState.cpp:80
+msgid "Main2"
+msgstr ""
+
+#: ../../../src/InputState.cpp:81
+msgid "Ctrl"
+msgstr ""
+
+#: ../../../src/InputState.cpp:82
+msgid "Shift"
+msgstr ""
+
+#: ../../../src/InputState.cpp:83
+msgid "Delete"
+msgstr ""
+
+#: ../../../src/InputState.cpp:85
+msgid "lmb"
+msgstr ""
+
+#: ../../../src/InputState.cpp:86
+msgid "mmb"
+msgstr ""
+
+#: ../../../src/InputState.cpp:87
+msgid "rmb"
+msgstr ""
+
+#: ../../../src/InputState.cpp:88
+msgid "wheel up"
+msgstr ""
+
+#: ../../../src/InputState.cpp:89
+msgid "wheel down"
+msgstr ""
+
+#: ../../../src/InputState.cpp:90
+msgid "mbx1"
+msgstr ""
+
+#: ../../../src/InputState.cpp:91
+msgid "mbx2"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:521
+#, c-format
+msgid "Level %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:532
+#, c-format
+msgid "Melee damage: %d-%d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:534
+#, c-format
+msgid "Melee damage: %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:538
+#, c-format
+msgid "Ranged damage: %d-%d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:540
+#, c-format
+msgid "Ranged damage: %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:544
+#, c-format
+msgid "Mental damage: %d-%d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:546
+#, c-format
+msgid "Mental damage: %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:552
+#, c-format
+msgid "Absorb: %d-%d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:554
+#, c-format
+msgid "Absorb: %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:562
+#, c-format
+msgid "%d\\% Speed"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:567 ../../../src/ItemManager.cpp:659
+#, c-format
+msgid "Increases %s by %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:574 ../../../src/ItemManager.cpp:662
+#, c-format
+msgid "Decreases %s by %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:595 ../../../src/MenuPowers.cpp:539
+#: ../../../src/MenuPowers.cpp:541
+#, c-format
+msgid "Requires Physical %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:600 ../../../src/MenuPowers.cpp:544
+#: ../../../src/MenuPowers.cpp:546
+#, c-format
+msgid "Requires Mental %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:605 ../../../src/MenuPowers.cpp:529
+#: ../../../src/MenuPowers.cpp:531
+#, c-format
+msgid "Requires Offense %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:610 ../../../src/MenuPowers.cpp:534
+#: ../../../src/MenuPowers.cpp:536
+#, c-format
+msgid "Requires Defense %d"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:628 ../../../src/ItemManager.cpp:636
+#, c-format
+msgid "Buy Price: %d %s"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:630 ../../../src/ItemManager.cpp:638
+#, c-format
+msgid "Buy Price: %d %s each"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:643
+#, c-format
+msgid "Sell Price: %d %s"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:645
+#, c-format
+msgid "Sell Price: %d %s each"
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:655
+msgid "Set: "
+msgstr ""
+
+#: ../../../src/ItemManager.cpp:659 ../../../src/ItemManager.cpp:662
+#, c-format
+msgid "%d items: "
+msgstr ""
+
+#: ../../../src/LootManager.cpp:180 ../../../src/MenuInventory.cpp:173
+#, c-format
+msgid "%d %s"
+msgstr ""
+
+#: ../../../src/MapRenderer.cpp:1169
+msgid "Unknown destination"
+msgstr ""
+
+#: ../../../src/MenuActionBar.cpp:401
+msgid "Character Menu (C)"
+msgstr ""
+
+#: ../../../src/MenuActionBar.cpp:405
+msgid "Inventory Menu (I)"
+msgstr ""
+
+#: ../../../src/MenuActionBar.cpp:409
+msgid "Power Menu (P)"
+msgstr ""
+
+#: ../../../src/MenuActionBar.cpp:413
+msgid "Log Menu (L)"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:231
+msgid "Name"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:232
+msgid "Level"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:233
+msgid "Physical"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:234
+msgid "Mental"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:235
+msgid "Offense"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:236
+msgid "Defense"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:294
+msgid "points remaining"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:304
+msgid "Max HP:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:305
+#, c-format
+msgid "Each point of Physical grants +%d HP. Each level grants +%d HP"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:310
+msgid "HP Regen:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:311
+#, c-format
+msgid "Ticks of HP regen per minute. Each point of Physical grants +%d HP regen. Each level grants +%d HP regen"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:316
+msgid "Max MP:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:317
+#, c-format
+msgid "Each point of Mental grants +%d MP. Each level grants +%d MP"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:322
+msgid "MP Regen:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:323
+#, c-format
+msgid "Ticks of MP regen per minute. Each point of Mental grants +%d MP regen. Each level grants +%d MP regen"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:328
+msgid "Accuracy:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:329
+#, c-format
+msgid "Each point of Offense grants +%d accuracy. Each level grants +%d accuracy"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:334
+msgid "Avoidance:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:335
+#, c-format
+msgid "Each point of Defense grants +%d avoidance. Each level grants +%d avoidance"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:343
+msgid "Melee Damage:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:354
+msgid "Ranged Damage:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:365
+msgid "Mental Damage:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:375
+msgid "Crit:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:381
+msgid "Absorb:"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:391
+msgid "Poise: "
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:392
+msgid "Reduces your chance of stumbling when hit"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:397 ../../../src/MenuCharacter.cpp:403
+msgid "Bonus"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:398
+msgid "Increases the XP gained per kill"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:404
+#, c-format
+msgid "Increases the %s found per drop"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:409
+msgid "Bonus Item Find: "
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:410
+msgid "Increases the chance that an enemy will drop an item when killed"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:415
+msgid "Stealth: "
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:416
+msgid "Increases your ability to move undetected"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:434
+#, c-format
+msgid "XP: %d"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:436
+#, c-format
+msgid "Next: %d"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:440
+msgid "Physical (P) increases melee weapon proficiency and total HP."
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:441 ../../../src/MenuCharacter.cpp:445
+#: ../../../src/MenuCharacter.cpp:449 ../../../src/MenuCharacter.cpp:453
+#, c-format
+msgid "base (%d), bonus (%d)"
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:444
+msgid "Mental (M) increases mental weapon proficiency and total MP."
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:448
+msgid "Offense (O) increases ranged weapon proficiency and accuracy."
+msgstr ""
+
+#: ../../../src/MenuCharacter.cpp:452
+msgid "Defense (D) increases armor proficiency and avoidance."
+msgstr ""
+
+#: ../../../src/MenuEnemy.cpp:138
+msgid "Dead"
+msgstr ""
+
+#: ../../../src/MenuEnemy.cpp:144 ../../../src/MenuEnemy.cpp:146
+#, c-format
+msgid "%s level %d"
+msgstr ""
+
+#: ../../../src/MenuExit.cpp:31
+msgid "Exit"
+msgstr ""
+
+#: ../../../src/MenuExit.cpp:58
+msgid "Save and exit to title?"
+msgstr ""
+
+#: ../../../src/MenuInventory.cpp:207
+msgid "Use SHIFT to move only one item."
+msgstr ""
+
+#: ../../../src/MenuInventory.cpp:208
+msgid "CTRL-click a carried item to sell it."
+msgstr ""
+
+#: ../../../src/MenuInventory.cpp:406
+msgid "This item can only be used from the action bar."
+msgstr ""
+
+#: ../../../src/MenuLog.cpp:78
+msgid "Notes"
+msgstr ""
+
+#: ../../../src/MenuLog.cpp:79
+msgid "Quests"
+msgstr ""
+
+#: ../../../src/MenuManager.cpp:238
+#, c-format
+msgid "XP: %d/%d"
+msgstr ""
+
+#: ../../../src/MenuManager.cpp:396 ../../../src/MenuManager.cpp:397
+#: ../../../src/MenuManager.cpp:600 ../../../src/MenuManager.cpp:601
+msgid "Not enough money."
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:458
+msgid "Unspent skill points:"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:500
+msgid "Requires a physical weapon"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:502
+msgid "Requires a mental weapon"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:504
+msgid "Requires an offense weapon"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:509 ../../../src/MenuPowers.cpp:511
+#, c-format
+msgid "Requires Physical Offense %d"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:514 ../../../src/MenuPowers.cpp:516
+#, c-format
+msgid "Requires Physical Defense %d"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:519 ../../../src/MenuPowers.cpp:521
+#, c-format
+msgid "Requires Mental Offense %d"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:524 ../../../src/MenuPowers.cpp:526
+#, c-format
+msgid "Requires Mental Defense %d"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:551 ../../../src/MenuPowers.cpp:554
+#, c-format
+msgid "Requires Level %d"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:561 ../../../src/MenuPowers.cpp:566
+#, c-format
+msgid "Requires %d Skill Point"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:574
+msgid "Click to Unlock"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:580 ../../../src/MenuPowers.cpp:583
+#, c-format
+msgid "Requires Power: %s"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:588
+#, c-format
+msgid "Costs %d MP"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:592
+#, c-format
+msgid "Costs %d HP"
+msgstr ""
+
+#: ../../../src/MenuPowers.cpp:596
+#, c-format
+msgid "Cooldown: %d seconds"
+msgstr ""
+
+#: ../../../src/MenuStash.cpp:123
+msgid "Shared Stash"
+msgstr ""
+
+#: ../../../src/MenuTalker.cpp:48
+msgid "Trade"
+msgstr ""
+
+#: ../../../src/MenuVendor.cpp:51
+msgid "Buyback"
+msgstr ""
+
+#: ../../../src/MenuVendor.cpp:153
+msgid "Vendor"
+msgstr ""
+
+#: ../../../src/PowerManager.cpp:670
+#, c-format
+msgid "+%d Shield"
+msgstr ""
+
+#: ../../../src/PowerManager.cpp:910
+msgid "You are already transformed, untransform first."
+msgstr ""
+
+#: ../../../src/Settings.cpp:480
+msgid "Adventurer"
+msgstr ""
