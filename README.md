@@ -18,8 +18,8 @@ but also want to try out the latest flare engine features.
 
     https://github.com/stefanbeller/flare-windows-precompiled/archive/master.zip
     
-3.) After downloading both zip files, extract them into one folder. 
-There may be files which exist in both the zip files. 
-If unsure prefer the game data files over the engine files.
+3.) After downloading both zip files, extract them into a folder each. 
 
-4.) After unpacking, start flare.exe and have fun.
+4.) After unpacking, start flare.exe with this commandline argument:
+
+    flare.exe --game_data=C:\Path\To\Game\Data
